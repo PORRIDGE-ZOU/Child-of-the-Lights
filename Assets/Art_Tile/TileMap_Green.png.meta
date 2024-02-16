@@ -1,0 +1,3140 @@
+fileFormatVersion: 2
+guid: 35498886eddfd9b43a1aa9597ea3cbad
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 77.14286
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Windows Store Apps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: tvOS
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: TileMap_Green_0
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 1002.8571
+        width: 77.14286
+        height: 77.14286
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 15b0e8a643565e5499fed6658156d3fa
+      internalID: 1861326852
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileMap_Green_1
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 1002.8571
+        width: 77.14286
+        height: 77.14286
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c5893b1604c39a64d928ca5e6882edf3
+      internalID: -824727573
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileMap_Green_2
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 1002.8571
+        width: 77.14286
+        height: 77.14286
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 27972acf33b58714d857a77eab914c50
+      internalID: -1157139406
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileMap_Green_3
+      rect:
+        serializedVersion: 2
+        x: 308
+        y: 1002.8571
+        width: 77.14286
+        height: 77.14286
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0fe04ba0549930c489bc9a09b549a76f
+      internalID: -1332260850
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileMap_Green_4
+      rect:
+        serializedVersion: 2
+        x: 385
+        y: 1002.8571
+        width: 77.14286
+        height: 77.14286
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 257dafa9052a49e4b89e9a859f397d77
+      internalID: 999270684
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileMap_Green_5
+      rect:
+        serializedVersion: 2
+        x: 462
+        y: 1002.8571
+        width: 77.14286
+        height: 77.14286
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 73f447a019896a44499853288240af34
+      internalID: 472230630
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileMap_Green_6
+      rect:
+        serializedVersion: 2
+        x: 539
+        y: 1002.8571
+        width: 77.14286
+        height: 77.14286
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 93238da5b90c61949a969cd433f917d7
+      internalID: 1147405232
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileMap_Green_7
+      rect:
+        serializedVersion: 2
+        x: 616
+        y: 1002.8571
+        width: 77.14286
+        height: 77.14286
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 815e9c7fbe0435547a49a9ce2e53c9ed
+      internalID: 1777686962
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileMap_Green_8
+      rect:
+        serializedVersion: 2
+        x: 693
+        y: 1002.8571
+        width: 77.14286
+        height: 77.14286
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 12e0d20f9ce20b340b6d26cf32478cf9
+      internalID: -2002899465
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileMap_Green_9
+      rect:
+        serializedVersion: 2
+        x: 770
+        y: 1002.8571
+        width: 77.14286
+        height: 77.14286
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dffe1fb2c031914409a7269c4689ac17
+      internalID: 1778780585
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileMap_Green_10
+      rect:
+        serializedVersion: 2
+        x: 847
+        y: 1002.8571
+        width: 77.14286
+        height: 77.14286
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3580c19f585d04642bd34af4d0ae3254
+      internalID: -1868685355
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileMap_Green_11
+      rect:
+        serializedVersion: 2
+        x: 924
+        y: 1002.8571
+        width: 77.14286
+        height: 77.14286
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c0340da78cc2ef44866abdd01a38a99
+      internalID: 415573842
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileMap_Green_12
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 925.8571
+        width: 77.14286
+        height: 77.14286
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 236f9aa656b7fb04cb8fe49e57f8450b
+      internalID: -1034646170
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileMap_Green_13
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 925.8571
+        width: 77.14286
+        height: 77.14286
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 55b6fd396c1a0eb4e921af23200582af
+      internalID: 2068163123
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileMap_Green_14
+      rect:
+        serializedVersion: 2
+        x: 308
+        y: 925.8571
+        width: 77.14286
+        height: 77.14286
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cac77e519a688384b9ab55d3dd5a975e
+      internalID: 2079274079
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileMap_Green_15
+      rect:
+        serializedVersion: 2
+        x: 385
+        y: 925.8571
+        width: 77.14286
+        height: 77.14286
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c859e01eb14fab40bb9df55cb5145c3
+      internalID: 1485808015
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileMap_Green_16
+      rect:
+        serializedVersion: 2
+        x: 462
+        y: 925.8571
+        width: 77.14286
+        height: 77.14286
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ae8fcad2de5ad84e9debab05b2f33cc
+      internalID: 393720555
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileMap_Green_17
+      rect:
+        serializedVersion: 2
+        x: 539
+        y: 925.8571
+        width: 77.14286
+        height: 77.14286
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c54069e8b1bb15e4a91c78fa14a2c875
+      internalID: -542629668
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileMap_Green_18
+      rect:
+        serializedVersion: 2
+        x: 616
+        y: 925.8571
+        width: 77.14286
+        height: 77.14286
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 94dd1dae6ec78cd4f8db66269b986846
+      internalID: 747429089
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileMap_Green_19
+      rect:
+        serializedVersion: 2
+        x: 693
+        y: 925.8571
+        width: 77.14286
+        height: 77.14286
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6fe79cea3cffc1f499dcc0c9c1415c19
+      internalID: -1927715172
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileMap_Green_20
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 848.8571
+        width: 77.14286
+        height: 77.14286
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 930acfc835fa2bb47b6f58e9b16c651b
+      internalID: 1957917678
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileMap_Green_21
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 848.8571
+        width: 77.14286
+        height: 77.14286
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e856e43332af818428be4e84b6d34b41
+      internalID: -1859694564
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileMap_Green_22
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 848.8571
+        width: 77.14286
+        height: 77.14286
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3396cfe4b63b4e44c826cb6cc72c7658
+      internalID: -198091588
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileMap_Green_23
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 848.8571
+        width: 77.14286
+        height: 77.14286
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d8dd10cbfa75aa04e8ed5b73a57c8062
+      internalID: 1552922522
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileMap_Green_24
+      rect:
+        serializedVersion: 2
+        x: 308
+        y: 848.8571
+        width: 77.14286
+        height: 77.14286
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 62874239ea6a77a47a7248b52d6410bc
+      internalID: -717586199
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileMap_Green_25
+      rect:
+        serializedVersion: 2
+        x: 385
+        y: 848.8571
+        width: 77.14286
+        height: 77.14286
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d5c56240ccc0874388e4f2738f8fdf4
+      internalID: -612658788
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileMap_Green_26
+      rect:
+        serializedVersion: 2
+        x: 462
+        y: 848.8571
+        width: 77.14286
+        height: 77.14286
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 598f22ee3fd43b5458a3b2c24f7702cf
+      internalID: 1046495879
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileMap_Green_27
+      rect:
+        serializedVersion: 2
+        x: 539
+        y: 848.8571
+        width: 77.14286
+        height: 77.14286
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be32e89de17803c4b97d5a157c360e9b
+      internalID: 139515561
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileMap_Green_28
+      rect:
+        serializedVersion: 2
+        x: 616
+        y: 848.8571
+        width: 77.14286
+        height: 77.14286
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fdd98ede9c33b36429bb29eb820e9a8d
+      internalID: 1368989672
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileMap_Green_29
+      rect:
+        serializedVersion: 2
+        x: 693
+        y: 848.8571
+        width: 77.14286
+        height: 77.14286
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 743d0d24fbb40614389988b3004f6c22
+      internalID: -1052114325
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileMap_Green_30
+      rect:
+        serializedVersion: 2
+        x: 770
+        y: 848.8571
+        width: 77.14286
+        height: 77.14286
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e44b6eb327a10554dad62bcd6c03a7e9
+      internalID: -1270087421
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileMap_Green_31
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 771.8571
+        width: 77.14286
+        height: 77.14286
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba7f24a262a2e43458b4aed8d0136500
+      internalID: -1205406531
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileMap_Green_32
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 771.8571
+        width: 77.14286
+        height: 77.14286
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e8cebc7c556193a44b3337dc2455ffb2
+      internalID: 1606880853
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileMap_Green_33
+      rect:
+        serializedVersion: 2
+        x: 308
+        y: 771.8571
+        width: 77.14286
+        height: 77.14286
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f63a0cb3db4759846817fdc8759f4a13
+      internalID: 166890199
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileMap_Green_34
+      rect:
+        serializedVersion: 2
+        x: 385
+        y: 771.8571
+        width: 77.14286
+        height: 77.14286
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 966edfb7b6ae19b489aa45c5a987892b
+      internalID: 2009436860
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileMap_Green_35
+      rect:
+        serializedVersion: 2
+        x: 462
+        y: 771.8571
+        width: 77.14286
+        height: 77.14286
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca96d5b039815844a9ce84c9e10d29a0
+      internalID: -406442309
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileMap_Green_36
+      rect:
+        serializedVersion: 2
+        x: 539
+        y: 771.8571
+        width: 77.14286
+        height: 77.14286
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d3fe75f5379ca9d4d9ef235329c66be0
+      internalID: -673502111
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileMap_Green_37
+      rect:
+        serializedVersion: 2
+        x: 616
+        y: 771.8571
+        width: 77.14286
+        height: 77.14286
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 31cd28600d9d86846bfa78fbe2715f78
+      internalID: -639514809
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileMap_Green_38
+      rect:
+        serializedVersion: 2
+        x: 693
+        y: 771.8571
+        width: 77.14286
+        height: 77.14286
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d263faf2f11bd0042a5fc69c493e2d6a
+      internalID: 1102382040
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileMap_Green_39
+      rect:
+        serializedVersion: 2
+        x: 770
+        y: 771.8571
+        width: 77.14286
+        height: 77.14286
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2924b05e0e627474983481f572478138
+      internalID: 1507111592
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileMap_Green_40
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 694.8571
+        width: 77.14286
+        height: 77.14286
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa04bd81c8ba30b4398f291296542139
+      internalID: 872248808
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileMap_Green_41
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 694.8571
+        width: 77.14286
+        height: 77.14286
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9adad39608715c543ad44d0f4daace61
+      internalID: -1107536674
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileMap_Green_42
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 694.8571
+        width: 77.14286
+        height: 77.14286
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df0d5480ac7a25f4c8d1a6561bbc1ac7
+      internalID: -1474951666
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileMap_Green_43
+      rect:
+        serializedVersion: 2
+        x: 308
+        y: 694.8571
+        width: 77.14286
+        height: 77.14286
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 975d9d771ccabe84ca6f429b9434fd08
+      internalID: 116442385
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileMap_Green_44
+      rect:
+        serializedVersion: 2
+        x: 385
+        y: 694.8571
+        width: 77.14286
+        height: 77.14286
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 28c707788ba74fa44b7085d162cb5ce1
+      internalID: -1075275376
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileMap_Green_45
+      rect:
+        serializedVersion: 2
+        x: 462
+        y: 694.8571
+        width: 77.14286
+        height: 77.14286
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 214c11f3ab3b2204f8b6b29e5f57997f
+      internalID: -1714485146
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileMap_Green_46
+      rect:
+        serializedVersion: 2
+        x: 539
+        y: 694.8571
+        width: 77.14286
+        height: 77.14286
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec4c4c3ee236f5745a0687ca7fc345b7
+      internalID: -1039412658
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileMap_Green_47
+      rect:
+        serializedVersion: 2
+        x: 616
+        y: 694.8571
+        width: 77.14286
+        height: 77.14286
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b4a06d6c90cb75a46b75417a991176d5
+      internalID: -1155536319
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileMap_Green_48
+      rect:
+        serializedVersion: 2
+        x: 693
+        y: 694.8571
+        width: 77.14286
+        height: 77.14286
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f299fd691a07bbd4392ec253a8ecb179
+      internalID: -1919173057
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileMap_Green_49
+      rect:
+        serializedVersion: 2
+        x: 770
+        y: 694.8571
+        width: 77.14286
+        height: 77.14286
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4430c8c48fb37884389daa6d0f3a96bd
+      internalID: -1657524125
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileMap_Green_50
+      rect:
+        serializedVersion: 2
+        x: 847
+        y: 694.8571
+        width: 77.14286
+        height: 77.14286
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ca72b5fe2f34ce40bb55f9e6f4d87ed
+      internalID: 1057109708
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileMap_Green_51
+      rect:
+        serializedVersion: 2
+        x: 1001
+        y: 694.8571
+        width: 77.14286
+        height: 77.14286
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6037713d6dca5594cb54c4157302222e
+      internalID: 897187843
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileMap_Green_52
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 617.8571
+        width: 77.14286
+        height: 77.14286
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 04ad4c8875be1134198a30b087bb9f6f
+      internalID: -1137255030
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileMap_Green_53
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 617.8571
+        width: 77.14286
+        height: 77.14286
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ea60aa5a86a7604b899834992959da0
+      internalID: 2022767062
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileMap_Green_54
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 617.8571
+        width: 77.14286
+        height: 77.14286
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 15d8620d43eefa441a7d38983fd9ab28
+      internalID: 1468768727
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileMap_Green_55
+      rect:
+        serializedVersion: 2
+        x: 308
+        y: 617.8571
+        width: 77.14286
+        height: 77.14286
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb1d2892f6facd04cb1a3c1a4199a508
+      internalID: 594144993
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileMap_Green_56
+      rect:
+        serializedVersion: 2
+        x: 385
+        y: 617.8571
+        width: 77.14286
+        height: 77.14286
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 271b6cb110c34c54daf78fbee8a4d703
+      internalID: 1663112564
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileMap_Green_57
+      rect:
+        serializedVersion: 2
+        x: 462
+        y: 617.8571
+        width: 77.14286
+        height: 77.14286
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 73ed8c7dd71b06443a2b64b34292c0b0
+      internalID: -94114083
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileMap_Green_58
+      rect:
+        serializedVersion: 2
+        x: 539
+        y: 617.8571
+        width: 77.14286
+        height: 77.14286
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ab2c43e5c55e2946954d77ebff75974
+      internalID: 315617803
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileMap_Green_59
+      rect:
+        serializedVersion: 2
+        x: 616
+        y: 617.8571
+        width: 77.14286
+        height: 77.14286
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 43d446aa26551c24c9b3003342ef3ae3
+      internalID: -1363208114
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileMap_Green_60
+      rect:
+        serializedVersion: 2
+        x: 693
+        y: 617.8571
+        width: 77.14286
+        height: 77.14286
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 03fcfa8b5b0ed9742bd5e36d0455088d
+      internalID: -2137481385
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileMap_Green_61
+      rect:
+        serializedVersion: 2
+        x: 770
+        y: 617.8571
+        width: 77.14286
+        height: 77.14286
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 20f3e31b477a5314a99dc973ab689219
+      internalID: -99295706
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileMap_Green_62
+      rect:
+        serializedVersion: 2
+        x: 847
+        y: 617.8571
+        width: 77.14286
+        height: 77.14286
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cefe48efd23e17c47a2660d002748426
+      internalID: 1881768530
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileMap_Green_63
+      rect:
+        serializedVersion: 2
+        x: 924
+        y: 617.8571
+        width: 77.14286
+        height: 77.14286
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea16a3c3b4e540d4ab20ec5195caab2d
+      internalID: -458292418
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileMap_Green_64
+      rect:
+        serializedVersion: 2
+        x: 1001
+        y: 617.8571
+        width: 77.14286
+        height: 77.14286
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0914fed2d44f31544814595f6a155ad3
+      internalID: 1460188031
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileMap_Green_65
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 540.8571
+        width: 77.14286
+        height: 77.14286
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f393f579f2d75a747ad7f67a8c6f360f
+      internalID: -121246841
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileMap_Green_66
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 540.8571
+        width: 77.14286
+        height: 77.14286
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 814f68cac9837d84ca32870c27db82ca
+      internalID: 484918762
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileMap_Green_67
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 540.8571
+        width: 77.14286
+        height: 77.14286
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5630f8cec5d9a7c4fac44b1674a9f803
+      internalID: 1505332537
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileMap_Green_68
+      rect:
+        serializedVersion: 2
+        x: 308
+        y: 540.8571
+        width: 77.14286
+        height: 77.14286
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f7aef645bf1abe049a44b7851a7338cf
+      internalID: -334576148
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileMap_Green_69
+      rect:
+        serializedVersion: 2
+        x: 385
+        y: 540.8571
+        width: 77.14286
+        height: 77.14286
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a7d6810f67e6f546ae52a28df63da67
+      internalID: 1249632156
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileMap_Green_70
+      rect:
+        serializedVersion: 2
+        x: 462
+        y: 540.8571
+        width: 77.14286
+        height: 77.14286
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9838721f553c8b94882eb337becb8f12
+      internalID: 356651491
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileMap_Green_71
+      rect:
+        serializedVersion: 2
+        x: 539
+        y: 540.8571
+        width: 77.14286
+        height: 77.14286
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 415c1eda57ff84a4694aeac212f59dfa
+      internalID: -428398578
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileMap_Green_72
+      rect:
+        serializedVersion: 2
+        x: 693
+        y: 540.8571
+        width: 77.14286
+        height: 77.14286
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c1ba115faede25428446440631e1052
+      internalID: 71954324
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileMap_Green_73
+      rect:
+        serializedVersion: 2
+        x: 847
+        y: 540.8571
+        width: 77.14286
+        height: 77.14286
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 358f7b86c39bda64a9390bac7198d7b9
+      internalID: -2039266682
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileMap_Green_74
+      rect:
+        serializedVersion: 2
+        x: 924
+        y: 540.8571
+        width: 77.14286
+        height: 77.14286
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 35bee1109cf2e9f4b9b8507a617b803e
+      internalID: 400312143
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileMap_Green_75
+      rect:
+        serializedVersion: 2
+        x: 1001
+        y: 540.8571
+        width: 77.14286
+        height: 77.14286
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c2bd77fc06a6d244989be1e95f5622b
+      internalID: 1237951332
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileMap_Green_76
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 463.85715
+        width: 77.14286
+        height: 77.14286
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 88dd6e88f444da24397f05d6e31826d3
+      internalID: 1898670710
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileMap_Green_77
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 463.85715
+        width: 77.14286
+        height: 77.14286
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cec7384e152400d4789a965dc54f6e35
+      internalID: 1480346922
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileMap_Green_78
+      rect:
+        serializedVersion: 2
+        x: 308
+        y: 463.85715
+        width: 77.14286
+        height: 77.14286
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d25ee066dcb87e409b2a5d867268848
+      internalID: 161415406
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileMap_Green_79
+      rect:
+        serializedVersion: 2
+        x: 462
+        y: 463.85715
+        width: 77.14286
+        height: 77.14286
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 73dba809417e8cc4db835247c990d237
+      internalID: -576067446
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileMap_Green_80
+      rect:
+        serializedVersion: 2
+        x: 539
+        y: 463.85715
+        width: 77.14286
+        height: 77.14286
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b1c674212536d448b2a1c3e5410ade3
+      internalID: -802797503
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileMap_Green_81
+      rect:
+        serializedVersion: 2
+        x: 693
+        y: 463.85715
+        width: 77.14286
+        height: 77.14286
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 36dd7b5a9752ab546916dd751f65f651
+      internalID: -1988736959
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileMap_Green_82
+      rect:
+        serializedVersion: 2
+        x: 770
+        y: 463.85715
+        width: 77.14286
+        height: 77.14286
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d7a86bd23b261424cbbdd79e1ad42089
+      internalID: 1645680615
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileMap_Green_83
+      rect:
+        serializedVersion: 2
+        x: 847
+        y: 463.85715
+        width: 77.14286
+        height: 77.14286
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d51aab76f41d6e4281d805e06ffefda
+      internalID: 1554931298
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileMap_Green_84
+      rect:
+        serializedVersion: 2
+        x: 924
+        y: 463.85715
+        width: 77.14286
+        height: 77.14286
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 668320d313682c24d83b0d941e7d7329
+      internalID: -892273689
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileMap_Green_85
+      rect:
+        serializedVersion: 2
+        x: 1001
+        y: 463.85715
+        width: 77.14286
+        height: 77.14286
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e008d7a237a2864da0040d37b17e4cd
+      internalID: -468598103
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileMap_Green_86
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 386.85715
+        width: 77.14286
+        height: 77.14286
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de4832352ef585d4d84e614c15f54c78
+      internalID: 655390635
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileMap_Green_87
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 386.85715
+        width: 77.14286
+        height: 77.14286
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 54f8c4fae5371354f87d6ee6b2f27342
+      internalID: 6757127
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileMap_Green_88
+      rect:
+        serializedVersion: 2
+        x: 308
+        y: 386.85715
+        width: 77.14286
+        height: 77.14286
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3640159b794e41049ab274df443969ce
+      internalID: -877716767
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileMap_Green_89
+      rect:
+        serializedVersion: 2
+        x: 462
+        y: 386.85715
+        width: 77.14286
+        height: 77.14286
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eac9c213d5847d645a1a81e2c3c5d818
+      internalID: -107909602
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileMap_Green_90
+      rect:
+        serializedVersion: 2
+        x: 539
+        y: 386.85715
+        width: 77.14286
+        height: 77.14286
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 02945c40325405e4aacb12b8ad84ac8c
+      internalID: 1658124403
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileMap_Green_91
+      rect:
+        serializedVersion: 2
+        x: 693
+        y: 386.85715
+        width: 77.14286
+        height: 77.14286
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c2987155999d1347a798532e2cfbe2a
+      internalID: 491514806
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileMap_Green_92
+      rect:
+        serializedVersion: 2
+        x: 770
+        y: 386.85715
+        width: 77.14286
+        height: 77.14286
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 56bbb9a21b1d61f458f2e297e0a92dd2
+      internalID: -1748898081
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileMap_Green_93
+      rect:
+        serializedVersion: 2
+        x: 847
+        y: 386.85715
+        width: 77.14286
+        height: 77.14286
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd83c71dfa1350d4484afa1ffd06d4b2
+      internalID: 1053242043
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileMap_Green_94
+      rect:
+        serializedVersion: 2
+        x: 924
+        y: 386.85715
+        width: 77.14286
+        height: 77.14286
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b6fc56a09a07934fa4ab1cbf93070e6
+      internalID: 787860229
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileMap_Green_95
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 309.85715
+        width: 77.14286
+        height: 77.14286
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 160635b2903de144999aced5a5fdd956
+      internalID: -54201101
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileMap_Green_96
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 309.85715
+        width: 77.14286
+        height: 77.14286
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 50f488fd7c3480e4ba4b7df71e047e36
+      internalID: 14788032
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileMap_Green_97
+      rect:
+        serializedVersion: 2
+        x: 308
+        y: 309.85715
+        width: 77.14286
+        height: 77.14286
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9514f04f2dd669b42ae74a7fcdceae20
+      internalID: -1238505367
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileMap_Green_98
+      rect:
+        serializedVersion: 2
+        x: 385
+        y: 309.85715
+        width: 77.14286
+        height: 77.14286
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9034c411f16b70e48bb178eec0827f00
+      internalID: 754022046
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileMap_Green_99
+      rect:
+        serializedVersion: 2
+        x: 462
+        y: 309.85715
+        width: 77.14286
+        height: 77.14286
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 852599063e41bc144a001e764c8e6953
+      internalID: -2140036101
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileMap_Green_100
+      rect:
+        serializedVersion: 2
+        x: 539
+        y: 309.85715
+        width: 77.14286
+        height: 77.14286
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db9de89291a74724e91c7a3cb72fc655
+      internalID: -381132675
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileMap_Green_101
+      rect:
+        serializedVersion: 2
+        x: 693
+        y: 309.85715
+        width: 77.14286
+        height: 77.14286
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e4c5ed09d5dea44ea21d45a312e61b4
+      internalID: -350111864
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileMap_Green_102
+      rect:
+        serializedVersion: 2
+        x: 770
+        y: 309.85715
+        width: 77.14286
+        height: 77.14286
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c7be24cadad21604eb3942f385a42f32
+      internalID: 1916005359
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileMap_Green_103
+      rect:
+        serializedVersion: 2
+        x: 847
+        y: 309.85715
+        width: 77.14286
+        height: 77.14286
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee29ce7ba61b6624892f81942f80d912
+      internalID: 791728182
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileMap_Green_104
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 232.85715
+        width: 77.14286
+        height: 77.14286
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 93139cabc0b00eb4d93ade03b8374a7b
+      internalID: -1576973021
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileMap_Green_105
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 232.85715
+        width: 77.14286
+        height: 77.14286
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 588109e295436c64daa2c4a64cda99ea
+      internalID: 1687520725
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileMap_Green_106
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 232.85715
+        width: 77.14286
+        height: 77.14286
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a62baed6ac88e1841b66f61677d456b9
+      internalID: -1576759022
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileMap_Green_107
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 232.85715
+        width: 77.14286
+        height: 77.14286
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bda1873d8c889ae4f9d2f6273a178ca7
+      internalID: -1764893625
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileMap_Green_108
+      rect:
+        serializedVersion: 2
+        x: 385
+        y: 232.85715
+        width: 77.14286
+        height: 77.14286
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 958c6c10c3378624d8781e437bdf4b3b
+      internalID: -72295297
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileMap_Green_109
+      rect:
+        serializedVersion: 2
+        x: 462
+        y: 232.85715
+        width: 77.14286
+        height: 77.14286
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e245b9e0046448840adae4db1de52aff
+      internalID: 1753074295
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileMap_Green_110
+      rect:
+        serializedVersion: 2
+        x: 616
+        y: 232.85715
+        width: 77.14286
+        height: 77.14286
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e882e51fd579be45be1a49112bb1d88
+      internalID: -916376941
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileMap_Green_111
+      rect:
+        serializedVersion: 2
+        x: 693
+        y: 232.85715
+        width: 77.14286
+        height: 77.14286
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e7569a8150f855349868290655e74cc9
+      internalID: 1711945187
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileMap_Green_112
+      rect:
+        serializedVersion: 2
+        x: 770
+        y: 232.85715
+        width: 77.14286
+        height: 77.14286
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 55f192855e555224c85c99dbfaa7bf48
+      internalID: -794332505
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileMap_Green_113
+      rect:
+        serializedVersion: 2
+        x: 847
+        y: 232.85715
+        width: 77.14286
+        height: 77.14286
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 524a73fc0ca3a70409c348a38a88d79c
+      internalID: -919175631
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileMap_Green_114
+      rect:
+        serializedVersion: 2
+        x: 924
+        y: 232.85715
+        width: 77.14286
+        height: 77.14286
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b0896da950ea564c8ede50961ece149
+      internalID: -883321490
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileMap_Green_115
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 155.85715
+        width: 77.14286
+        height: 77.14286
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 43142457f7f6be44a80a819713cce80e
+      internalID: -1833568864
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileMap_Green_116
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 155.85715
+        width: 77.14286
+        height: 77.14286
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e4dd174a68e30642af1c459fccc7013
+      internalID: -731906838
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileMap_Green_117
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 155.85715
+        width: 77.14286
+        height: 77.14286
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d2a7118ac13ffa4b9585ee11d795ad1
+      internalID: 306213516
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileMap_Green_118
+      rect:
+        serializedVersion: 2
+        x: 462
+        y: 155.85715
+        width: 77.14286
+        height: 77.14286
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 98d007a52719f7a4d90b85bdb45546f8
+      internalID: -1117880379
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileMap_Green_119
+      rect:
+        serializedVersion: 2
+        x: 616
+        y: 155.85715
+        width: 77.14286
+        height: 77.14286
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e242adcc7d4e6ca498e5a5e32dfe0f2a
+      internalID: 622297702
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileMap_Green_120
+      rect:
+        serializedVersion: 2
+        x: 693
+        y: 155.85715
+        width: 77.14286
+        height: 77.14286
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f0abe25cad63fe3488c20b46194131af
+      internalID: 642436472
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileMap_Green_121
+      rect:
+        serializedVersion: 2
+        x: 770
+        y: 155.85715
+        width: 77.14286
+        height: 77.14286
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a861dbb92fea004a899c513cfcf7e17
+      internalID: 1477312331
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileMap_Green_122
+      rect:
+        serializedVersion: 2
+        x: 847
+        y: 155.85715
+        width: 77.14286
+        height: 77.14286
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e90238e4fcd44a54f87dfdd21666bbbd
+      internalID: 1405458323
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileMap_Green_123
+      rect:
+        serializedVersion: 2
+        x: 924
+        y: 155.85715
+        width: 77.14286
+        height: 77.14286
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eedaeb2ed9b8c5647a7159ea9cd483c9
+      internalID: -111613759
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileMap_Green_124
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 78.85714
+        width: 77.14286
+        height: 77.14286
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f18f6108198ebb41ab86f03ffadaf0e
+      internalID: 373262652
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileMap_Green_125
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 78.85714
+        width: 77.14286
+        height: 77.14286
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c4f83370a0d5fe4ea284c3ba4aa9821
+      internalID: 1917122130
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileMap_Green_126
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 78.85714
+        width: 77.14286
+        height: 77.14286
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2aaccbc600adf894d8a15b8965f56b67
+      internalID: -310073947
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileMap_Green_127
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 78.85714
+        width: 77.14286
+        height: 77.14286
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 60dcb3a91720a244cb758fa1d6f956f3
+      internalID: -177161682
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileMap_Green_128
+      rect:
+        serializedVersion: 2
+        x: 462
+        y: 78.85714
+        width: 77.14286
+        height: 77.14286
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c8cceab11502c7e49a701e57a8adae7b
+      internalID: 1393800778
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileMap_Green_129
+      rect:
+        serializedVersion: 2
+        x: 693
+        y: 78.85714
+        width: 77.14286
+        height: 77.14286
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d4738326e58f9040b9ae364470ea22b
+      internalID: 1550709169
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileMap_Green_130
+      rect:
+        serializedVersion: 2
+        x: 847
+        y: 78.85714
+        width: 77.14286
+        height: 77.14286
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 43853098180b1ca4187ca89fec188287
+      internalID: -1135380306
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileMap_Green_131
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 1.8571396
+        width: 77.14286
+        height: 77.14286
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f2a6dbb7aef2c67418676e2af8cdfcd2
+      internalID: 72308587
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileMap_Green_132
+      rect:
+        serializedVersion: 2
+        x: 385
+        y: 1.8571396
+        width: 77.14286
+        height: 77.14286
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ae4c5032f8a2994293571c3499218ee
+      internalID: -1725366452
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileMap_Green_133
+      rect:
+        serializedVersion: 2
+        x: 462
+        y: 1.8571396
+        width: 77.14286
+        height: 77.14286
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ccb5333a51a25744786f54a8649fa3fe
+      internalID: 394360140
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      TileMap_Green_0: 1861326852
+      TileMap_Green_1: -824727573
+      TileMap_Green_10: -1868685355
+      TileMap_Green_100: -381132675
+      TileMap_Green_101: -350111864
+      TileMap_Green_102: 1916005359
+      TileMap_Green_103: 791728182
+      TileMap_Green_104: -1576973021
+      TileMap_Green_105: 1687520725
+      TileMap_Green_106: -1576759022
+      TileMap_Green_107: -1764893625
+      TileMap_Green_108: -72295297
+      TileMap_Green_109: 1753074295
+      TileMap_Green_11: 415573842
+      TileMap_Green_110: -916376941
+      TileMap_Green_111: 1711945187
+      TileMap_Green_112: -794332505
+      TileMap_Green_113: -919175631
+      TileMap_Green_114: -883321490
+      TileMap_Green_115: -1833568864
+      TileMap_Green_116: -731906838
+      TileMap_Green_117: 306213516
+      TileMap_Green_118: -1117880379
+      TileMap_Green_119: 622297702
+      TileMap_Green_12: -1034646170
+      TileMap_Green_120: 642436472
+      TileMap_Green_121: 1477312331
+      TileMap_Green_122: 1405458323
+      TileMap_Green_123: -111613759
+      TileMap_Green_124: 373262652
+      TileMap_Green_125: 1917122130
+      TileMap_Green_126: -310073947
+      TileMap_Green_127: -177161682
+      TileMap_Green_128: 1393800778
+      TileMap_Green_129: 1550709169
+      TileMap_Green_13: 2068163123
+      TileMap_Green_130: -1135380306
+      TileMap_Green_131: 72308587
+      TileMap_Green_132: -1725366452
+      TileMap_Green_133: 394360140
+      TileMap_Green_14: 2079274079
+      TileMap_Green_15: 1485808015
+      TileMap_Green_16: 393720555
+      TileMap_Green_17: -542629668
+      TileMap_Green_18: 747429089
+      TileMap_Green_19: -1927715172
+      TileMap_Green_2: -1157139406
+      TileMap_Green_20: 1957917678
+      TileMap_Green_21: -1859694564
+      TileMap_Green_22: -198091588
+      TileMap_Green_23: 1552922522
+      TileMap_Green_24: -717586199
+      TileMap_Green_25: -612658788
+      TileMap_Green_26: 1046495879
+      TileMap_Green_27: 139515561
+      TileMap_Green_28: 1368989672
+      TileMap_Green_29: -1052114325
+      TileMap_Green_3: -1332260850
+      TileMap_Green_30: -1270087421
+      TileMap_Green_31: -1205406531
+      TileMap_Green_32: 1606880853
+      TileMap_Green_33: 166890199
+      TileMap_Green_34: 2009436860
+      TileMap_Green_35: -406442309
+      TileMap_Green_36: -673502111
+      TileMap_Green_37: -639514809
+      TileMap_Green_38: 1102382040
+      TileMap_Green_39: 1507111592
+      TileMap_Green_4: 999270684
+      TileMap_Green_40: 872248808
+      TileMap_Green_41: -1107536674
+      TileMap_Green_42: -1474951666
+      TileMap_Green_43: 116442385
+      TileMap_Green_44: -1075275376
+      TileMap_Green_45: -1714485146
+      TileMap_Green_46: -1039412658
+      TileMap_Green_47: -1155536319
+      TileMap_Green_48: -1919173057
+      TileMap_Green_49: -1657524125
+      TileMap_Green_5: 472230630
+      TileMap_Green_50: 1057109708
+      TileMap_Green_51: 897187843
+      TileMap_Green_52: -1137255030
+      TileMap_Green_53: 2022767062
+      TileMap_Green_54: 1468768727
+      TileMap_Green_55: 594144993
+      TileMap_Green_56: 1663112564
+      TileMap_Green_57: -94114083
+      TileMap_Green_58: 315617803
+      TileMap_Green_59: -1363208114
+      TileMap_Green_6: 1147405232
+      TileMap_Green_60: -2137481385
+      TileMap_Green_61: -99295706
+      TileMap_Green_62: 1881768530
+      TileMap_Green_63: -458292418
+      TileMap_Green_64: 1460188031
+      TileMap_Green_65: -121246841
+      TileMap_Green_66: 484918762
+      TileMap_Green_67: 1505332537
+      TileMap_Green_68: -334576148
+      TileMap_Green_69: 1249632156
+      TileMap_Green_7: 1777686962
+      TileMap_Green_70: 356651491
+      TileMap_Green_71: -428398578
+      TileMap_Green_72: 71954324
+      TileMap_Green_73: -2039266682
+      TileMap_Green_74: 400312143
+      TileMap_Green_75: 1237951332
+      TileMap_Green_76: 1898670710
+      TileMap_Green_77: 1480346922
+      TileMap_Green_78: 161415406
+      TileMap_Green_79: -576067446
+      TileMap_Green_8: -2002899465
+      TileMap_Green_80: -802797503
+      TileMap_Green_81: -1988736959
+      TileMap_Green_82: 1645680615
+      TileMap_Green_83: 1554931298
+      TileMap_Green_84: -892273689
+      TileMap_Green_85: -468598103
+      TileMap_Green_86: 655390635
+      TileMap_Green_87: 6757127
+      TileMap_Green_88: -877716767
+      TileMap_Green_89: -107909602
+      TileMap_Green_9: 1778780585
+      TileMap_Green_90: 1658124403
+      TileMap_Green_91: 491514806
+      TileMap_Green_92: -1748898081
+      TileMap_Green_93: 1053242043
+      TileMap_Green_94: 787860229
+      TileMap_Green_95: -54201101
+      TileMap_Green_96: 14788032
+      TileMap_Green_97: -1238505367
+      TileMap_Green_98: 754022046
+      TileMap_Green_99: -2140036101
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
