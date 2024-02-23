@@ -6,33 +6,22 @@ public class PlayerController : MonoBehaviour
 {
     public float moveSpeed;
     public float jumpSpeed;
-
     public Transform groundCheck;
-
     public float groundCheckRadius;
-
     public LayerMask whatIsGround;
-
-
     public bool isGrounded;
-
-
     private Rigidbody2D myRigidbody;
-
 
     // Start is called before the first frame update
     void Start()
     {
         myRigidbody = GetComponent<Rigidbody2D>();
-
     }
 
     // Update is called once per frame
     void Update()
     {
-
         isGrounded = Physics2D.OverlapCircle(groundCheck.position, groundCheckRadius, whatIsGround);
-
         if (Input.GetAxisRaw("Horizontal") > 0f)
         {
             myRigidbody.velocity = new Vector3(moveSpeed, myRigidbody.velocity.y, 0f);
@@ -51,8 +40,6 @@ public class PlayerController : MonoBehaviour
         // {
         //     DisableRedColliders();
         // }
-
-
     }
     private void DisableRedColliders()
     {
@@ -69,5 +56,4 @@ public class PlayerController : MonoBehaviour
             }
         }
     }
-
 }

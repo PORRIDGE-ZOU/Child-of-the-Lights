@@ -30,7 +30,6 @@ public class CanFire : MonoBehaviour
             switch (bulletTag.color)
             {
                 case ColorTag.Colors.Red:
-
                     if (Red > 0) Red--;
                     break;
                 case ColorTag.Colors.Blue:
@@ -39,12 +38,9 @@ public class CanFire : MonoBehaviour
                 case ColorTag.Colors.Green:
                     if (Green > 0) Green--;
                     break;
-
-
                 case ColorTag.Colors.Yellow:
                     if (Yellow > 0) Yellow--;
                     break;
-
                 default:
                     break;
             }

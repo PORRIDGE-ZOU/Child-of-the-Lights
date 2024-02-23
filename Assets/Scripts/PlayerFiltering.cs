@@ -80,8 +80,6 @@ public class PlayerFiltering : MonoBehaviour
 
         Filter();
 
-
-
         // double groundCheckRadius=GetComponent<BoxCollider2D>().size.y/2;
         Vector2 size = new Vector2(GetComponent<BoxCollider2D>().size.x - 0.5f, GetComponent<BoxCollider2D>().size.y - 0.5f);
 
@@ -127,7 +125,6 @@ public class PlayerFiltering : MonoBehaviour
                 //Debug.Log("red: " + inRed + " blue:" + inBlue + " green: " + inGreen + " yellow:" + inYellow);
                 //if (isInOtherColor) KillPlayer();
                 ToggleColorColliders(color);
-
                 break;
             }
         }
